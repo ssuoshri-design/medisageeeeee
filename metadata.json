@@ -1,0 +1,6 @@
+{
+  "name": "MediSage AI",
+  "description": "Premium AI medical chat assistant featuring clinical insights, real-time vitals simulation, health history tracking, and a gorgeous Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
